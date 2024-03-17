@@ -12,8 +12,8 @@ I'm Abinayan Ratnasingam, computer engineering undergraduate at University of Sr
 ---
 
 ### How to contact me?
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abinayan-ratnasingam-5092b3214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- 🧑‍🏫 Services provided: I do provide a variety of paid services. Do book a call on <a href="https://topmate.io/abinaya_mahendiran" target="_blank"><img src="https://img.shields.io/badge/topmate.io-abinaya_mahendiran-red" alt="Topmate.io"></a>
+- 🧑‍💼 LinkedIn: <a href="https://www.linkedin.com/in/abinayan-ratnasingam-5092b3214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📧 Mail me: <a href="mailto:ratnaabinayan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Abinayan-blue" alt="gmail.com"></a>
 
 ---
 
@@ -33,11 +33,11 @@ I'm Abinayan Ratnasingam, computer engineering undergraduate at University of Sr
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./assets/icons/flutter.png" width="65px"/>
             <br /> Flutter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <img src="./assets/icons/firebase.png" width="65px"/>
             <br /> Firebase
         </td>
     </tr>
