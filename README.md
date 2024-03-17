@@ -5,7 +5,7 @@ I'm Abinayan Ratnasingam, computer engineering undergraduate at University of Sr
 ---
 
 ### What do I do?
-- 🔭 I build cross-platform mobile applications as well as web apps.
+- 🔭 I build cross-platform mobile applications as well as web apps (freelancing).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Other than coding, I love motorbyke riding.
 
