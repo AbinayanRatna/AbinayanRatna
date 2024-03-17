@@ -1,6 +1,6 @@
 ### Welcome to my world ❤
 
-I'm Abinayan Ratnasingam, computer engineering undergraduate at University of Sri Jayewardenepura, Sri Lanka.
+I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at University of Sri Jayewardenepura, Sri Lanka.
 
 ---
 
