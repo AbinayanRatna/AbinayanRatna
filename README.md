@@ -44,4 +44,4 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
 </table>
 </div>
 
-Thank you for visiting my profile!
+Thank you and come back!
