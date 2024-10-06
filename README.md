@@ -41,7 +41,7 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
             <br /> Firebase
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/react.png" width="65px"/>
+            <img src="./assets/icons/reactimg.png" width="65px"/>
             <br /> React Js
         </td>
     </tr>
