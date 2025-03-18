@@ -20,8 +20,7 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
 ### Github Stats
 
 | ![Abinayan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbinayanRatna&show_icons=true&theme=radical) | ![Abinayan's Streak](https://streak-stats.demolab.com?user=AbinayanRatna&theme=dark&border_radius=7&mode=weekly) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbinayanRatna&layout=compact&&show_icons=true&theme=radical)|      
+| ------------------------------------------------------------ | ------------------------------------------------------------ |   
 
 
 
