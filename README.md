@@ -42,7 +42,7 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
             <br /> React Js
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/spring.png" width="65px"/>
+            <img src="./assets/icons/springboot.png" width="65px"/>
             <br /> Spring Boot
         </td>
     </tr>
