@@ -34,16 +34,40 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
             <br /> Flutter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/firebase.png" width="65px"/>
-            <br /> Firebase
-        </td>
-        <td align="center" width="140" height="112.43">
             <img src="./assets/icons/reactimg.png" width="65px"/>
             <br /> React Js
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/spring-boot.png" width="65px"/>
             <br /> Spring Boot
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/nextjs.png" width="65px"/>
+            <br /> Next Js
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/firebase.png" width="65px"/>
+            <br /> Firebase
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/azure.png" width="65px"/>
+            <br /> Azure
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/google-cloud.png" width="65px"/>
+            <br /> Google Cloud
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/mongodb.png" width="65px"/>
+            <br /> MongoDB
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/postgres.png" width="65px"/>
+            <br /> Postgresql
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/mqtt.png" width="65px"/>
+            <br /> MQTT
         </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/docker.png" width="65px"/>
