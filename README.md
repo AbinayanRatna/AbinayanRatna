@@ -42,7 +42,7 @@ I'm Abinayan Ratnasingam, freelancer and a computer engineering undergraduate at
             <br /> Spring Boot
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/nextjs.png" width="65px"/>
+            <img src="./assets/icons/next.png" width="65px"/>
             <br /> Next Js
         </td>
         <td align="center" width="140" height="112.43">
