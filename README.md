@@ -2,16 +2,15 @@
 
 ### Computer Engineering Undergraduate | Full-Stack Developer | Freelancer
 
-I'm a passionate developer specializing in cross-platform mobile and web application development, currently pursuing my degree in Computer Engineering at the University of Sri Jayewardenepura, Sri Lanka.
+I'm a passionate developer currently pursuing my degree in Computer Engineering at the University of Sri Jayewardenepura, Sri Lanka.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔭 Building cross-platform mobile applications and web applications
+- 🔭 Building cross-platform full stack applications
 - 💼 Working as a freelance developer
 - 🎓 Pursuing Computer Engineering at University of Sri Jayewardenepura
-- 🏍️ Passionate about motorbike riding when I'm not coding
 
 ---
 
